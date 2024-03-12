@@ -51,9 +51,7 @@ python -c <span class="pl-s"><span class="pl-pds">"</span>import open3d as o3d; 
 
 <span class="pl-c"><span class="pl-c">#</span> Open3D CLI</span>
 open3d example visualization/draw</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Install
-pip install open3d       # or
-pip install open3d-cpu   # Smaller CPU only wheel on x86_64 Linux (v0.17+)
+  
 
 # Verify installation
 python -c &quot;import open3d as o3d; print(o3d.__version__)&quot;
